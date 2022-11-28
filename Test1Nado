@@ -19,7 +19,7 @@
             < a-entità
             posizione =" 0 0 0 "
             scala =" 0,5 0,5 0,5 "
-            obj-model =" obj: url(media/TestYEA.obj);mtl: url(media/TestYEA.mtl); "
+            obj-model =" obj: url(media/.obj);mtl: url(media/.mtl); "
             animation =" proprietà: rotazione; dur: 6000; to: 0 360 0; loop: true; easing: linear; "
             >  </ a-entità >
         </ a-marker >
